@@ -1,11 +1,4 @@
-# 1ra ENTREGA
-#### 1. Realizar un modelamiento de los distintos datos que debe guardar el sistema. Este modelamiento debe ser capturado en términos de (sub-dominios), apuntando a un diseño/implementación con microservicios. Una vez validado el modelo, generas las entidades y relaciones correspondientes, y mapearlo a una base de datos SQL. En ciertos casos (es decir, para ciertos microservicios), puede decidirse utilizar otro tipo de base de datos (por ej., MongoDB)
-
-#### 2. Diseñar un backend básico de (micro-)servicios que permita realizar el ABM de las entidades (para así poblar y gestionar la(s) base(s) de datos) y dar soporte a las principales funcionalidades antes mencionadas. En este diseño, considerar que cada microservicio contará (preferentemente) con una base de datos separada.
-
-#### 3. Implementar los siguientes servicios/reportes:
-   
-#### a. Como encargado de mantenimiento quiero poder generar un reporte de uso de monopatines por kilómetros para establecer si un monopatín requiere de mantenimiento. Este reporte debe poder configurarse para incluir (o no) los tiempos de pausa.
+ #### a. Como encargado de mantenimiento quiero poder generar un reporte de uso de monopatines por kilómetros para establecer si un monopatín requiere de mantenimiento. Este reporte debe poder configurarse para incluir (o no) los tiempos de pausa.
 
 #### b. Como administrador quiero poder anular cuentas para inhabilitar el uso momentáneo de la misma.
 
@@ -71,8 +64,4 @@ Puertos de cada servicio
 
 
   ## Autores:
-
-####  Fernandez Gayral, Belen - belenfernandezgayral@gmail.com
-#### Mengarelli Yespersen, Gaetano	- gmengarelliyespersen@alumnos.exa.unicen.edu.ar
 #### Menchon, Agustin - amenchon@alumnos.exa.unicen.edu.ar
-#### Martínez, Ezequiel - ezmartinez@alumnos.exa.unicen.edu.ar
